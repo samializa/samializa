@@ -9,10 +9,7 @@ import {
   Copy,
   Check,
   ArrowRight,
-  ExternalLink,
   GraduationCap,
-  Sparkles,
-  Layers,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -52,7 +49,7 @@ export default function Hero() {
                 Samia Jannat Liza
               </h1>
               <p className="text-base sm:text-lg font-medium text-muted-foreground flex items-center gap-2 flex-wrap">
-                <span>Software Engineer & CS Graduate</span>
+                <span>Undergraduate CSE Student & Software Engineer</span>
                 <span className="inline-flex items-center gap-1 text-xs border border-border px-2 py-0.5 rounded text-foreground/80 font-mono">
                   <GraduationCap className="h-3 w-3" />
                   AIUB
@@ -61,12 +58,12 @@ export default function Hero() {
             </div>
 
             <p className="text-sm leading-relaxed text-muted-foreground max-w-xl">
-              Computer Science & Engineering graduate from the{" "}
+              Undergraduate Computer Science & Engineering student at the{" "}
               <span className="text-foreground font-medium">
                 American International University-Bangladesh (AIUB)
               </span>
               . Passionate about software architecture, 3D interactive graphics,
-              and building fast, reliable web applications with C++, Java, Next.js, and Three.js.
+              and building fast, reliable applications with C++, Java, Next.js, and Three.js.
             </p>
 
             {/* Quick Actions */}
@@ -143,7 +140,7 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Right Column: Prominent Portrait Photo + Interactive Three.js Showcase */}
+          {/* Right Column: Prominent Portrait Photo Showcase */}
           <div className="md:col-span-5 flex flex-col items-center justify-center">
             <div className="relative w-full max-w-[320px] rounded-2xl border border-border bg-card/80 p-2.5 shadow-lg backdrop-blur-sm transition-all hover:border-foreground/30">
               {/* Photo Container */}
@@ -157,13 +154,13 @@ export default function Hero() {
                 />
                 
                 {/* Overlay Badge at Bottom of Photo */}
-                <div className="absolute inset-x-2 bottom-2 z-10 flex items-center justify-between rounded-lg border border-white/20 bg-neutral-950/75 p-2 backdrop-blur-md shadow-md text-white">
+                <div className="absolute inset-x-2 bottom-2 z-10 flex items-center justify-between rounded-lg border border-white/20 bg-neutral-950/75 p-2.5 backdrop-blur-md shadow-md text-white">
                   <div className="flex flex-col">
                     <span className="text-xs font-semibold leading-tight">
                       Samia Jannat Liza
                     </span>
                     <span className="text-[10px] text-neutral-300 font-mono">
-                      B.Sc. CSE &bull; AIUB
+                      Undergraduate CSE &bull; AIUB
                     </span>
                   </div>
                   <div className="flex items-center gap-1 rounded bg-white/10 px-1.5 py-0.5 text-[10px] font-mono">
@@ -171,17 +168,6 @@ export default function Hero() {
                     Online
                   </div>
                 </div>
-              </div>
-
-              {/* Three.js 3D Graphics Status pill */}
-              <div className="mt-2.5 flex items-center justify-between px-1 text-[11px] font-mono text-muted-foreground">
-                <span className="flex items-center gap-1.5">
-                  <Layers className="h-3.5 w-3.5 text-sky-500" />
-                  <span>Three.js 3D Graphics</span>
-                </span>
-                <span className="text-[10px] bg-muted/60 px-1.5 py-0.5 rounded">
-                  WebGL 60FPS
-                </span>
               </div>
             </div>
           </div>

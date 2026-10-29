@@ -36,7 +36,7 @@ export default function About() {
               <span className="font-mono text-xs text-muted-foreground">01 //</span>
               About & Background
             </h2>
-            <Badge variant="mono">B.Sc. CSE</Badge>
+            <Badge variant="mono">Undergrad CSE</Badge>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">

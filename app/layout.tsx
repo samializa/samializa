@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Samia Jannat Liza — Software Engineer & Computer Science Graduate",
+  title: "Samia Jannat Liza — Software Engineer & Undergraduate CSE Student",
   description:
-    "Portfolio of Samia Jannat Liza. Computer Science and Engineering graduate from AIUB. Specialized in Full-Stack Web Engineering, Three.js & Computer Graphics, and Software Quality.",
+    "Portfolio of Samia Jannat Liza. Undergraduate Computer Science and Engineering student at AIUB. Specialized in Full-Stack Web Engineering, Three.js & Computer Graphics, and Software Quality.",
   keywords: [
     "Samia Jannat Liza",
     "Software Engineer",

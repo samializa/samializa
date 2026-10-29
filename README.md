@@ -3,7 +3,7 @@
 # Hi there, I'm Samia Jannat Liza 👋
 
 <p align="center">
-  <strong>Computer Science & Engineering Student / Graduate &bull; Software Engineer &bull; Graphics & Web Developer</strong><br>
+  <strong>Undergraduate Computer Science & Engineering Student &bull; Software Engineer &bull; Graphics & Web Developer</strong><br>
   American International University-Bangladesh (AIUB) &bull; Dhaka, Bangladesh
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Education:** B.Sc. in Computer Science and Engineering at **American International University-Bangladesh (AIUB)**.
+- 🎓 **Education:** Undergraduate Student (B.Sc. in Computer Science and Engineering) at **American International University-Bangladesh (AIUB)**.
 - 💻 **Engineering Disciplines:** Full-Stack Web Development, Software Quality Assurance & Testing (SQT), and Computer Graphics.
 - 🎨 **3D Graphics:** Practical experience developing interactive simulations using **C++**, **OpenGL**, **GLUT**, and **Three.js**.
 - 📐 **Design Philosophy:** Minimalist, editorial aesthetics with high information density, zero AI cliches, and modular codebases.
