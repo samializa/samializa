@@ -34,7 +34,7 @@
 | **Frontend & Web** | `Next.js` &bull; `React` &bull; `Tailwind CSS` &bull; `Shadcn UI` &bull; `REST APIs` |
 | **Graphics & 3D** | `OpenGL` &bull; `GLUT` &bull; `Three.js` &bull; `3D Transformations` |
 | **Testing & Quality** | `Software Quality & Testing (SQT)` &bull; `Unit Testing` &bull; `Validation Protocols` |
-| **Tools & Platforms** | `Git` &bull; `GitHub` &bull; `GitLab` &bull; `VS Code` &bull; `Vercel` |
+| **Tools & Platforms** | `Git` &bull; `GitHub` &bull; `GitLab` &bull; `VS Code` |
 
 ---
 

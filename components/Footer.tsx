@@ -12,14 +12,7 @@ export default function Footer() {
         </div>
 
         <div className="flex items-center gap-4">
-          <a
-            href="https://vercel.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-foreground transition-colors"
-          >
-            Deployed on Vercel
-          </a>
+          <span className="text-muted-foreground">Built with Next.js & Three.js</span>
           <a
             href="#"
             className="inline-flex items-center gap-1 hover:text-foreground transition-colors"

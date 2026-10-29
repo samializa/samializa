@@ -17,7 +17,7 @@ export default function Skills() {
     },
     {
       name: "Engineering Tools & Testing",
-      skills: ["Git & GitHub", "GitLab", "Software Quality Assurance (SQT)", "Unit Testing", "Vercel", "VS Code"],
+      skills: ["Git & GitHub", "GitLab", "Software Quality Assurance (SQT)", "Unit Testing", "Linux / Bash", "VS Code"],
     },
   ];
 

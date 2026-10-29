@@ -13,7 +13,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![Three.js](https://img.shields.io/badge/Three.js-3D-black?style=flat-square&logo=three.js)](https://threejs.org/)
-[![Vercel](https://img.shields.io/badge/Deployed%20with-Vercel-000000?style=flat-square&logo=vercel)](https://vercel.com/)
 
 ---
 
@@ -37,7 +36,7 @@
 | **Languages** | `C++` &bull; `Java` &bull; `TypeScript` &bull; `JavaScript` &bull; `SQL` &bull; `PHP` &bull; `HTML5` &bull; `CSS3` |
 | **Frontend & Web** | `Next.js 14` &bull; `React` &bull; `Tailwind CSS` &bull; `Shadcn UI` &bull; `REST APIs` |
 | **Graphics & Systems** | `Three.js` &bull; `OpenGL` &bull; `GLUT` &bull; `3D Transformations & Lighting` |
-| **Quality & DevOps** | `Software Quality & Testing (SQT)` &bull; `Git` &bull; `GitHub` &bull; `GitLab` &bull; `Vercel` |
+| **Quality & Tools** | `Software Quality & Testing (SQT)` &bull; `Git` &bull; `GitHub` &bull; `GitLab` &bull; `VS Code` |
 
 ---
 
@@ -52,19 +51,16 @@
 
 ---
 
-## 🚀 Live Portfolio Project & Vercel Deployment
+## 🚀 Personal Portfolio Project
 
-This repository also contains the full source code for my personal portfolio website.
+This repository contains the full source code for my personal engineering portfolio.
 
-### Deploying to Vercel
-
-You can deploy this portfolio to Vercel with zero configuration:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsamializa%2Fsamializa)
-
-1. Connect your GitHub account at [vercel.com](https://vercel.com).
-2. Select and import the `samializa` repository.
-3. Click **Deploy**. Vercel will automatically build and serve the Next.js app.
+### Features
+- **Next.js 14 App Router:** High performance, server-first architecture, optimized assets.
+- **Three.js Interactive Viewport:** Minimalist geometric wireframe canvas with smooth mouse parallax tracking.
+- **Shadcn UI Styling:** Custom-crafted Button, Badge, and Card components with Tailwind CSS.
+- **Dark & Light Mode:** Seamless theme switching with persistent user preference storage.
+- **High Information Density:** Editorial layout with tight, intentional spacing and clean typography.
 
 ### Running Locally
 
